@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @isabelayalab
 - 👀 I’m interested in backend infrastructre/DevOps/Mobile App production/Anything IT...
 - 🌱 I’m currently learning Harvard cs50 course ...
+- play my game on scratch 👀 https://scratch.mit.edu/projects/883558121 
   
 
 <!---
